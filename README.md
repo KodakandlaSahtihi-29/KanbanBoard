@@ -16,18 +16,22 @@ This document is your cheat sheet to explaining the **AuraBoard** project during
 
 Since AuraBoard is built with pure Vanilla HTML, CSS, and JavaScript, no complex build steps, installations, or Node.js runtime are required!
 
-### Option 1: Direct File Opening (Easiest & Fastest)
+### 🌐 Option 1: View the Live Demo Online (Instant)
+You can directly open and use the live application hosted via GitHub Pages:
+👉 **[Live Demo on GitHub Pages](https://kodakandlasahtihi-29.github.io/KanbanBoard/)**
+
+### 💻 Option 2: Direct File Opening Locally (Easiest)
 1. Navigate to the project directory on your computer.
 2. Simply double-click the **`index.html`** file (or right-click -> **Open with** -> your favorite browser like Chrome, Edge, Firefox, or Brave).
 3. The board will immediately open and run locally.
 
-### Option 2: VS Code Live Server
+### 🔌 Option 3: VS Code Live Server
 1. Open the project folder in **Visual Studio Code**.
 2. Install the **Live Server** extension (by Ritwick Dey) if you haven't already.
 3. Right-click on `index.html` and choose **"Open with Live Server"**.
 4. Your browser will automatically launch at `http://127.0.0.1:5500`.
 
-### Option 3: Local Python HTTP Server
+### ⚡ Option 4: Local Python HTTP Server
 If you prefer running a lightweight command-line server:
 ```bash
 # In the project directory, run:
